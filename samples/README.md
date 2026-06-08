@@ -1,8 +1,8 @@
-# Sample Code Plan
+# Sample Code
 
-This directory is reserved for Phase 3 public-safe snippets. Samples will demonstrate API and transformation approach without mirroring production source code.
+This directory contains Phase 3 public-safe snippets. They demonstrate API and transformation approach without mirroring production source code.
 
-## Planned Areas
+## Published Samples
 
 - `php/product-card-transformer.php` — fictional product-to-response mapping.
 - `php/localized-term-normalizer.php` — generic Persian/Arabic text and digit normalization.
@@ -18,4 +18,4 @@ This directory is reserved for Phase 3 public-safe snippets. Samples will demons
 
 ## Status
 
-No code samples are published yet. Phase 2 focuses on employer-friendly context and architecture; Phase 3 will add one to three sanitized PHP snippets.
+Phase 3 is active with three short PHP snippets. These files are intentionally simplified and should be read as review samples, not as production API code.
